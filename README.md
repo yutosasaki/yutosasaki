@@ -1,7 +1,10 @@
 
-I'm web developer.  I wanna make the world better with my skills.{:.project-name}
+<section class="page-header">
+<h1 class="project-name"></h1>
+I'm web developer.  I wanna make the world better with my skills
+</section>
 
-[![Github](./img/GitHub-Mark-32px.png){:margin="15mm"}](https://github.com/yutosasaki)
+[![Github](./img/GitHub-Mark-32px.png){:margin-right="10px" style="center"}](https://github.com/yutosasaki)
 [![Mail](./img/Mail-32px.png)](mailto:yuto.sasaki19@gmail.com)
 
 ## About
@@ -23,7 +26,7 @@ Responsible for developing Windows applications using .NET and Xaml.
 
 ### Familiar with Programming of Language
 
-* C<img src="./img/c_logo.svg" width="15mm" />  
+* C <img src="./img/c_logo.svg" width="15mm" />  
 University lectures and self-study.
 
 * Java  
