@@ -1,11 +1,12 @@
 
-<section class="page-header">
-<h1 class="project-name"></h1>
 I'm web developer.  I wanna make the world better with my skills
-</section>
 
-[![Github](./img/GitHub-Mark-32px.png){:margin-right="10px" style="center"}](https://github.com/yutosasaki)
+<div align="center">
+
+[![Github](./img/GitHub-Mark-32px.png)](https://github.com/yutosasaki)
 [![Mail](./img/Mail-32px.png)](mailto:yuto.sasaki19@gmail.com)
+
+</div>
 
 ## About
 
