@@ -13,7 +13,8 @@ I'm a web developer from Tokyo.
 ### Fluent in Programming of Language
 
 * Ruby <img src="./img/ruby_logo.png" width="23px" />  
-Implemented OAuth 2.0 API by Github API v3. In addition, he has experience in the design, development and unit testing of mid-sized web applications.
+I have experience in development of business application of OAuth 2.0 API with Github API v3.
+Then I have experience designing, developing, and unit testing mid-sized web applications. Approximately 40 million users.
 
 * PHP <img src="./img/php_logo.png" width="30px" />  
 Improvement of Elearning system for internal use by [Moodle](https://moodle.org/).
