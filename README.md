@@ -2,7 +2,7 @@
 I'm web developer.  I wanna make the world better with my skills.{:.project-name}
 
 [![Github](./img/GitHub-Mark-32px.png){:margin="15mm"}](https://github.com/yutosasaki)
-[![Mail](./img/Mail-32px.png)](yuto.sasaki19@gmail.com)
+[![Mail](./img/Mail-32px.png)](mailto:yuto.sasaki19@gmail.com)
 
 ## About
 
