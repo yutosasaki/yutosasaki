@@ -1,23 +1,30 @@
-## Yuto Sasaki.  I'm web developer.  I wanna make the world better with my skills.
 
-### About
+I'm web developer.  I wanna make the world better with my skills.{:.project-name}
+
+[![Github](./img/GitHub-Mark-32px.png){:margin="15mm"}](https://github.com/yutosasaki)
+[![Mail](./img/Mail-32px.png)](yuto.sasaki19@gmail.com)
+
+## About
 
 I'm web developer from Tokyo.
 
-### Career
+## Skills
 
-### Skills
+### Fluent in Programming of Language
 
-#### Fluent in Programming of Language
+* Ruby <img src="./img/ruby_logo.png" width="15mm" />  
+Implemented OAuth 2.0 API by Github API v3. In addition, he has experience in the design, development and unit testing of mid-sized web applications.
 
-##### Ruby <img src="./img/ruby_logo.png" width="11mm">
+* PHP <img src="./img/php_logo.png" width="20mm" />  
+Improvement of Elearning system for internal use by [Moodle](https://moodle.org/).
 
-##### PHP <img src="./img/php_logo.png" width="15mm">
+* C#  
+Responsible for developing Windows applications using .NET and Xaml.
 
-##### C#
+### Familiar with Programming of Language
 
-#### Familiar with Programming of Language
+* C<img src="./img/c_logo.svg" width="15mm" />  
+University lectures and self-study.
 
-#### C <img src="./img/c_logo.svg" width="15mm">
-
-#### Java
+* Java  
+University lectures and self-study.
