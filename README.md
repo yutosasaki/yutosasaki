@@ -1,19 +1,19 @@
 [![Github](./img/GitHub-Mark-32px.png)](https://github.com/yutosasaki)
 [![Mail](./img/Mail-32px.png)](mailto:yuto.sasaki19@gmail.com)
 
-## About
+## About:shipit:
 
 I am a software engineer currently working on research and development in the field of XR.
 
-## Skills
+## Skills:page_with_curl:
 
-### Fluent in Programming of Language
+### Fluent in Programming of Language:heavy_check_mark:
 
 - C#
   7.x  
   Since Unity is currently the game engine I use the most, it is inevitably the language I am most familiar with.
 
-### Familiar with Programming of Language
+### Familiar with Programming of Language:white_check_mark:
 
 - C++
   I have only used it for competition programming (Atcorder) and a little bit for business.
@@ -24,11 +24,11 @@ I am a software engineer currently working on research and development in the fi
 - Java  
   University lectures and self-study.
 
-### Game Engine
+### Game Engine:video_game:
 
 - Unity  
   2019.4.x~  
   2021.1.x~
 
 - Unreal Engine  
-  4.26
+  4.2x～
