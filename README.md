@@ -9,13 +9,13 @@ I am a software engineer currently working on research and development in the fi
 
 ### Fluent in Programming of Language:heavy_check_mark:
 
-- C#
+- C#  
   7.x  
   Since Unity is currently the game engine I use the most, it is inevitably the language I am most familiar with.
 
 ### Familiar with Programming of Language:white_check_mark:
 
-- C++
+- C++  
   I have only used it for competition programming (Atcorder) and a little bit for business.
 
 - C
