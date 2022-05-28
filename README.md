@@ -18,7 +18,7 @@ I am a software engineer currently working on research and development in the fi
 - C++  
   I have only used it for competition programming (Atcorder) and a little bit for business.
 
-- C
+- C  
   University lectures and self-study.
 
 - Java  
