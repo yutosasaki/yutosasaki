@@ -10,7 +10,7 @@ I am a software engineer currently working on research and development in the fi
 ### Fluent in Programming of Language:heavy_check_mark:
 
 - C#  
-  7.x  
+  9.x  
   Since Unity is currently the game engine I use the most, it is inevitably the language I am most familiar with.
 
 ### Familiar with Programming of Language:white_check_mark:
@@ -27,8 +27,7 @@ I am a software engineer currently working on research and development in the fi
 ### Game Engine:video_game:
 
 - Unity  
-  2019.4.x~  
-  2021.1.x~
+  2021.3.x~
 
 - Unreal Engine  
   4.2x～
