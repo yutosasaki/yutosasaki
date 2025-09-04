@@ -20,7 +20,7 @@ My approach emphasizes:
 
 ## 💼 Experience
 
-- **Deloitte Tohmatsu Consulting LLC** (2023.12 – Present)  
+- **Deloitte Tohmatsu Consulting LLC** (2023.12 – 2025.8)  
   Led XR × AI PoC for future autonomous vehicle UX (team size: ~10)
 
 - **Freelance** (2023.09 – 2023.11)  
