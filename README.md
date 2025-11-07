@@ -1,8 +1,6 @@
 # Yuto Sasaki
 
-Hi, I'm Yuto — a consultant and software engineer working at the intersection of **XR**, **real-time 3D**, and **interactive product prototyping**.
-
-I specialize in delivering **proof-of-concept (PoC) to scalable implementation** with a strong focus on cross-disciplinary technologies like **Unreal Engine**, **Unity**, **AI**, and **cloud-native infrastructure**.
+Hi, I'm Yuto — Right now, we’re tackling customer support, building at the web–voice–AI intersection.
 
 ---
 
@@ -19,6 +17,9 @@ My approach emphasizes:
 ---
 
 ## 💼 Experience
+
+- **RightTouch Inc.** (2025.11 – ) 
+　A business dedicated to eliminating all negative experiences people face, primarily in the customer support domain.
 
 - **Deloitte Tohmatsu Consulting LLC** (2023.12 – 2025.8)  
   Led XR × AI PoC for future autonomous vehicle UX (team size: ~10)
