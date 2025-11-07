@@ -18,8 +18,8 @@ My approach emphasizes:
 
 ## 💼 Experience
 
-- **RightTouch Inc.** (2025.11 – ) 
-　A business dedicated to eliminating all negative experiences people face, primarily in the customer support domain.
+- **RightTouch Inc.** (2025.11 – )   
+  A business dedicated to eliminating all negative experiences people face, primarily in the customer support domain.
 
 - **Deloitte Tohmatsu Consulting LLC** (2023.12 – 2025.8)  
   Led XR × AI PoC for future autonomous vehicle UX (team size: ~10)
