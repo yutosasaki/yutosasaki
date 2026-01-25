@@ -14,49 +14,12 @@ My approach emphasizes:
 - Bridging between engineering, UX, and product management
 - Establishing reusable patterns for fast project onboarding and knowledge transfer
 
----
-
-## 💼 Experience
-
-- **RightTouch Inc.** (2025.11 – )   
-  A business dedicated to eliminating all negative experiences people face, primarily in the customer support domain.
-
-- **Deloitte Tohmatsu Consulting LLC** (2023.12 – 2025.8)  
-  Led XR × AI PoC for future autonomous vehicle UX (team size: ~10)
-
-- **Freelance** (2023.09 – 2023.11)  
-  Added ranking and shop systems to a live mobile social game in 2.5 months
-
-- **Nangoku R-Studio Inc.** (2023.04 – 2023.08)  
-  Developed metaverse features and AR prototypes for new business initiatives
-
-- **MANISPIN Inc.** (2022.04 – 2023.03)  
-  Delivered a full-stack metaverse client for a large-scale open beta test
-
-- **TechnoPro, Inc. – Design Division** (2019.02 – 2022.03)  
-  Built UX demos for volumetric displays (SIGGRAPH 2019/2021 exhibitor)
-
-- **BeNEXT Solustions Inc.** (2017.04 – 2019.01)  
-  Developed small- to mid-scale web systems as an onsite engineer at a major SIer  
-  Covered the full lifecycle from design to release, including requirement analysis and UI/UX planning
-
----
-
 ## 🛠️ Skills & Technologies
 
-- **Languages**: C++, C#, TypeScript, Python  
+- **Languages**: C++, C#, JavaScript(TypeScript), Python  
 - **Engines & Frameworks**: Unreal Engine 5, Unity, WebRTC, gRPC, Docker  
 - **Tooling**: Git, GitHub Actions, CI/CD pipelines, Perforce  
-- **Domains**: XR (VR/AR/MR), metaverse, real-time rendering, AI integration, PoC → MVP transitions
-
----
-
-## 🔭 What I’m Working On
-
-Currently exploring:
-- 1→100+ transition design for live 3D platforms  
-- Streamlining developer experience (DX) in game and simulation pipelines  
-- Cross-border XR engineering opportunities
+- **Domains**: Voice-AI, XR (VR/AR/MR), metaverse, real-time rendering, AI integration, PoC → MVP transitions
 
 ---
 
